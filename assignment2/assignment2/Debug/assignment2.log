@@ -1,0 +1,5 @@
+﻿  maze_solver.cpp
+z:\adit\my documents\visual studio 2015\projects\assignment2\assignment2\maze_solver.cpp(96): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+z:\adit\my documents\visual studio 2015\projects\assignment2\assignment2\maze_solver.cpp(97): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  assignment2.vcxproj -> Z:\adit\My Documents\Visual Studio 2015\Projects\assignment2\Debug\assignment2.exe
+  assignment2.vcxproj -> Z:\adit\My Documents\Visual Studio 2015\Projects\assignment2\Debug\assignment2.pdb (Partial PDB)

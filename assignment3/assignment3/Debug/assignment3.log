@@ -1,0 +1,7 @@
+﻿  hangman.cpp
+\\hornet.mines.edu\users\b\bass\adit\my documents\visual studio 2015\projects\assignment3\assignment3\hangman.cpp(149): warning C4018: '>': signed/unsigned mismatch
+\\hornet.mines.edu\users\b\bass\adit\my documents\visual studio 2015\projects\assignment3\assignment3\hangman.cpp(156): warning C4018: '<': signed/unsigned mismatch
+\\hornet.mines.edu\users\b\bass\adit\my documents\visual studio 2015\projects\assignment3\assignment3\hangman.cpp(168): warning C4018: '<': signed/unsigned mismatch
+\\hornet.mines.edu\users\b\bass\adit\my documents\visual studio 2015\projects\assignment3\assignment3\hangman.cpp(45): warning C4101: 'e': unreferenced local variable
+  assignment3.vcxproj -> \\hornet.mines.edu\Users\b\bass\adit\My Documents\Visual Studio 2015\Projects\assignment3\Debug\assignment3.exe
+  assignment3.vcxproj -> \\hornet.mines.edu\Users\b\bass\adit\My Documents\Visual Studio 2015\Projects\assignment3\Debug\assignment3.pdb (Partial PDB)
