@@ -1,0 +1,5 @@
+﻿  animal.cpp
+z:\adit\my documents\visual studio 2015\projects\assignment6\assignment6\animal.cpp(25): warning C4715: 'animal_game::load_game': not all control paths return a value
+z:\adit\my documents\visual studio 2015\projects\assignment6\assignment6\animal.cpp(89): warning C4715: 'animal_game::save_game': not all control paths return a value
+  assignment6.vcxproj -> Z:\adit\My Documents\Visual Studio 2015\Projects\assignment6\Debug\assignment6.exe
+  assignment6.vcxproj -> Z:\adit\My Documents\Visual Studio 2015\Projects\assignment6\Debug\assignment6.pdb (Partial PDB)
